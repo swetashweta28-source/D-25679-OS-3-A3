@@ -1,4 +1,4 @@
-# D-25679-OS-3-A3-2-
+# D-25679-OS-3-A3
 #include <stdio.h>
 
 int main()
